@@ -2,6 +2,9 @@
 📊 Project Overview
 The Blinkit Sales Analysis Dashboard provides a deep dive into the operational and sales performance of "India’s Last Minute App." By visualizing data from over 8,500 items, this report identifies consumer trends, product preferences, and outlet efficiency across various city tiers.
 
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Excel](https://img.shields.io/badge/Data-Cleaning-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://github.com/Amankumar81)
+
 🎯 Objectives
 To monitor core financial metrics: Total Sales, Average Sales, and Customer Ratings.
 
