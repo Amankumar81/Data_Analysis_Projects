@@ -47,7 +47,7 @@ The dashboard is fully dynamic. You can filter all visuals by:
 Developed with by **Aman Kumar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/amankumar81_powerbi-dataanalytics-businessintelligence-activity-7432624031855710208-gCDE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE8tCzcBS1U4W_dKEBKYARvHTo-AYK2-ZWo)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Amankumar81/Data_Analysis_Projects/tree/main/E_Commerce_Sales_Analysis)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/Amankumar81/Data_Analysis_Projects/blob/main/E_Commerce_Sales_Analysis/E_Commerce_Sales.png)
 ---
 
 ## 🖼️ Dashboard Preview
